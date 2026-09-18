@@ -1,2 +1,6 @@
 # Pemrograman_HafizAhsanNuruddin_Topaz_TLS26
-generated to fulfill my assignment, and for learning perhaps.
+Nama: Hafiz Ahsan Nuruddin
+NIM: 26/582195/TK/66328
+Kelompok = TOPAZ
+
+Repositori ini berisikan dua kode program yang dibuat untuk menyelesaikan dua persoalan pada tugas TLS Pemrograman.
